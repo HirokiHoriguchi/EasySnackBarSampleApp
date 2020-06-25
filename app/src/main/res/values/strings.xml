@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EasySnackBarSampleApp</string>
+    <string name="ask">Are you Clear?</string>
+    <string name="message">let you show again!\nTap Here↓↓</string>
+</resources>
